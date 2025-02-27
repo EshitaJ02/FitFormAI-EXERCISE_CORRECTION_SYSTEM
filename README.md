@@ -8,13 +8,14 @@ potential to significantly improve exercise form, reduce the risk of injuries, a
 workout experience.
 
 1.The frontend of the website looks something like this:
-![image](https://github.com/user-attachments/assets/4efd820c-7755-4ab7-9d0b-c7227d7a59cd)
+![image](https://github.com/user-attachments/assets/f03bfd13-1c5d-49f8-a0b3-329ce0b30459)
 
-2. The user can choose any one of the 4 exercises-bicep curls,squats,standing leg raises or plank.
+2.The user can choose any one of the 4 exercises-bicep curls,squats,standing leg raises or plank.
    After exercise selection, the user will be navigated to a new page where the user movements will be monitered acccording to the chosen exercise.
 ![image](https://github.com/user-attachments/assets/1780f49e-5272-43d1-ac51-3f5616681b8b)
 
-3. Realtime Feeback is given on the exercise performed which in turn helps to reduce injuries.
-![image](https://github.com/user-attachments/assets/669ba7c6-eecf-4fa8-bc99-26f3a8af2f6f)
+3.Realtime Feeback is given on the exercise performed which in turn helps to reduce injuries.
+![image](https://github.com/user-attachments/assets/6b512f76-db01-4d4c-bcdd-becc58c91654)
+
 
 
